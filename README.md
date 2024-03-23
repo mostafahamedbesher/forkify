@@ -3,14 +3,17 @@
 
 ## About:
 
-A sophisticated recipe application designed to provide you with a seamless culinary experience. 
+A recipe application crafted using the Model-View-Controller (MVC) architecture to make it more structured and more clean,so
+we can easily maintain and add featuresto it. it is designed to provide you with a seamless culinary experience. 
 With Recipe Explorer, you can effortlessly search for any recipe imaginable and access comprehensive
 details such as ingredients, cooking time, serving portions, and step-by-step instructions.
 Additionally, you have the flexibility to bookmark your favorite recipes for easy access and even 
 share your own culinary creations with the community.
 
+
 ## Technologies Used:
 
+- MVC architecture
 - HTML
 - CSS
 - JavaScript
